@@ -19,18 +19,16 @@
 
 | 分类 | 文件 | 知识点数 |
 |------|------|----------|
-| **法规概述** | [法规概述.md](docs/法规概述.md) | ~30 |
-| **飞行分类** | [飞行分类.md](docs/飞行分类.md) | ~20 |
-| **执照体系** | [执照体系.md](docs/执照体系.md) | ~25 |
-| **空域管理** | [空域管理.md](docs/空域管理.md) | ~20 |
-| **安全规范** | [安全规范.md](docs/安全规范.md) | ~35 |
-| **多轴飞行器** | [多轴飞行器.md](docs/多轴飞行器.md) | 23 |
-| **飞行原理** | [飞行原理.md](docs/飞行原理.md) | 70 |
-| **概述与系统** | [概述与系统.md](docs/概述与系统.md) | 15 |
-| **气象知识** | [气象知识.md](docs/气象知识.md) | 26 |
-| **空域法规与任务规划** | [空域法规与任务规划.md](docs/空域法规与任务规划.md) | 28 |
-
----
+| **法规概述** | [查看](https://github.com/s9rgbpmy4n-cyber/UAV-Knowledge-Base/blob/main/docs/法规概述.md) | ~30 |
+| **飞行分类** | [查看](https://github.com/s9rgbpmy4n-cyber/UAV-Knowledge-Base/blob/main/docs/飞行分类.md) | ~20 |
+| **执照体系** | [查看](https://github.com/s9rgbpmy4n-cyber/UAV-Knowledge-Base/blob/main/docs/执照体系.md) | ~25 |
+| **空域管理** | [查看](https://github.com/s9rgbpmy4n-cyber/UAV-Knowledge-Base/blob/main/docs/空域管理.md) | ~20 |
+| **安全规范** | [查看](https://github.com/s9rgbpmy4n-cyber/UAV-Knowledge-Base/blob/main/docs/安全规范.md) | ~35 |
+| **多轴飞行器** | [查看](https://github.com/s9rgbpmy4n-cyber/UAV-Knowledge-Base/blob/main/docs/多轴飞行器.md) | 23 |
+| **飞行原理** | [查看](https://github.com/s9rgbpmy4n-cyber/UAV-Knowledge-Base/blob/main/docs/飞行原理.md) | 70 |
+| **概述与系统** | [查看](https://github.com/s9rgbpmy4n-cyber/UAV-Knowledge-Base/blob/main/docs/概述与系统.md) | 15 |
+| **气象知识** | [查看](https://github.com/s9rgbpmy4n-cyber/UAV-Knowledge-Base/blob/main/docs/气象知识.md) | 26 |
+| **空域法规与任务规划** | [查看](https://github.com/s9rgbpmy4n-cyber/UAV-Knowledge-Base/blob/main/docs/空域法规与任务规划.md) | 28 |
 
 ## 技术方法
 
